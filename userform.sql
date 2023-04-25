@@ -24,6 +24,34 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+-- Table structure for table `games`
+--
+
+CREATE TABLE `games` (
+  `Gname` varchar(50) DEFAULT NULL,
+  `Language` varchar(12) DEFAULT NULL,
+  `size` int(11) DEFAULT NULL,
+  `ram` int(11) DEFAULT NULL,
+  `system` varchar(10) DEFAULT NULL,
+  `cpu` varchar(30) DEFAULT NULL,
+  `vcard` varchar(30) DEFAULT NULL,
+  `link` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `games`
+--
+
+INSERT INTO `games` (`Gname`, `Language`, `size`, `ram`, `system`, `cpu`, `vcard`, `link`) VALUES
+('Grand Theft Auto V', 'English', 64, 6, '7/8/8.1/10', 'core i5 @2.40GHz(4 CPUs)', 'NVIDIA 9800 GT 1GB', 'https://downloads.digitaltrends.com/tencent-gaming-buddy/windows/post-download'),
+('Titanfall 2', 'English', 30, 8, '7<= 64-Bit', 'core i3-6300 (4<= threads)', 'no needed if any have better', 'https://downloads.digitaltrends.com/tencent-gaming-buddy/windows/post-download'),
+('GHOST RECON WILDLANDS', 'English', 60, 8, '7/8/8.1/10', 'core i5-2400S @2.5 GHz', 'NVIDIA 1060 GTx 4GB', 'https://downloads.digitaltrends.com/tencent-gaming-buddy/windows/post-download'),
+('Quantum Break', 'English', 55, 8, '7/8/8.1/10', '2GHz Core i5 or later', 'NVIDIA 1080 GTx 4GB', 'https://downloads.digitaltrends.com/tencent-gaming-buddy/windows/post-download'),
+('Forza Horizon 4', 'English', 70, 16, '10 or Xbox', 'Core i7-3820 @3.6 GHz', 'NVIDIA 1080 GTx 4GB', 'https://downloads.digitaltrends.com/tencent-gaming-buddy/windows/post-download'),
+('Call Of Duty WWII', 'English', 60, 8, '7/8/8.1/10', 'Core i5-3225 @3.3GHz', 'NVIDIA 9800 GTx 2GB', 'https://downloads.digitaltrends.com/tencent-gaming-buddy/windows/post-download');
+
+-- --------------------------------------------------------
+
 --
 -- Table structure for table `game_pics`
 --

@@ -14,7 +14,7 @@ include 'components/wishlist_cart.php';
 
 ?>
 
-<!DOCTYPE html>5
+<!DOCTYPE html>
 <html lang="en">
 <head>
    <meta charset="UTF-8">

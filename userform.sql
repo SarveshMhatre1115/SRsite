@@ -138,27 +138,7 @@ INSERT INTO `links` (`id`, `link`) VALUES
 -- --------------------------------------------------------
 
 --
--- Table structure for table `profile`
---
-
-CREATE TABLE `profile` (
-  `Personid` int(11) NOT NULL,
-  `name` varchar(30) DEFAULT NULL,
-  `password` varchar(30) DEFAULT NULL,
-  `email` varchar(30) DEFAULT NULL,
-  `number` varchar(11) DEFAULT NULL,
-  `pic` varchar(11) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
---
--- Dumping data for table `profile`
---
-
-INSERT INTO `profile` (`Personid`, `name`, `password`, `email`, `number`, `pic`) VALUES
-(1, 'Muhammad Raza Ali', 'raza1234', 'muhammadrazaali.raza@gmail.com', '03471234567', '03471234567'),
-(2, 'Abdullah-Bin-Nasser', 'abdul1234', 'abdullahNasser@gmail.com', '03401234590', '03401234590'),
-(3, 'kio', 'aa', 'asd', '123', '123');
-
+-- 
 -- --------------------------------------------------------
 
 --

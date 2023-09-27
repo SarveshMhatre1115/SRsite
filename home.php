@@ -240,7 +240,7 @@ The markup will have a list with images and the titles-->
 		</li>
 		<li>
 			<div class="image_title">
-				<a href="https://arcadespot.com/game/toy-story-2-n64/">Toy Story 2</a>
+				<a href="https://arcadespot.com/game/toy-story-2-n64/" style="height: 98px;">Toy Story 2</a>
 			</div>
 			<a href="#">
 				<img src="img\topgame2.jpg"style="width: 639px;height: 371px;"/>
@@ -264,7 +264,7 @@ The markup will have a list with images and the titles-->
 		</li>
 		<li>
 			<div class="image_title">
-				<a href="https://arcadespot.com/game/cars-2/">Cars 2</a>
+				<a href="https://arcadespot.com/game/cars-2/"style="height: 98px;">Cars 2</a>
 			</div>
 			<a href="#">
 				<img src="img\topgame5.jpg"style="width: 639px;height: 371px"/>
@@ -272,7 +272,7 @@ The markup will have a list with images and the titles-->
 		</li>
     <li>
 			<div class="image_title">
-				<a href="https://www.play-games.com/deadpool-games.html" style="height: 88px;">Marvel's Midnight Deadpool</a>
+				<a href="https://www.play-games.com/deadpool-games.html" style="height: 98px;">Marvel's Midnight Deadpool</a>
 			</div>
 			<a href="#">
 				<img src="img\topgame6.jpg"style="width: 639px;height: 371px"/>
@@ -280,7 +280,7 @@ The markup will have a list with images and the titles-->
 		</li>
     <li>
 			<div class="image_title">
-				<a href="https://www.ea.com/games/battlefield/battlefield-2042/news/battlefield-briefing-battle-of-nordvik-event"style="height: 88px;">bf 2042 battle of narvik</a>
+				<a href="https://www.ea.com/games/battlefield/battlefield-2042/news/battlefield-briefing-battle-of-nordvik-event"style="height: 98px;">bf 2042 battle of narvik</a>
 			</div>
 			<a href="#">
 				<img src="img\topgame7.jpg"style="width: 639px;height: 371px"/>
@@ -288,7 +288,7 @@ The markup will have a list with images and the titles-->
 		</li>
     <li>
 			<div class="image_title">
-				<a href="https://store.steampowered.com/app/1656330/Destiny_2_The_Witch_Queen/"style="height: 88px;">Destiny 2 The Witch Queen</a>
+				<a href="https://store.steampowered.com/app/1656330/Destiny_2_The_Witch_Queen/"style="height: 98px;">Destiny 2 The Witch Queen</a>
 			</div>
 			<a href="#">
 				<img src="img\topgame8.jpg"style="width: 639px;height: 371px"/>
@@ -296,7 +296,7 @@ The markup will have a list with images and the titles-->
 		</li>
     <li>
 			<div class="image_title">
-				<a href="https://www.divineknockout.com/"style="height: 88px;">Divine Knockout</a>
+				<a href="https://www.divineknockout.com/"style="height: 98px;">Divine Knockout</a>
 			</div>
 			<a href="#">
 				<img src="img\topgame9.jpg"style="width: 639px;height: 371px"/>
@@ -304,7 +304,7 @@ The markup will have a list with images and the titles-->
 		</li>
     <li>
 			<div class="image_title">
-				<a href="https://www.syncedthegame.com/en/"style="height: 88px;">Synced Gaming</a>
+				<a href="https://www.syncedthegame.com/en/"style="height: 98px;">Synced Gaming</a>
 			</div>
 			<a href="#">
 				<img src="img\topgame10.jpg"style="width: 639px;height: 371px"/>

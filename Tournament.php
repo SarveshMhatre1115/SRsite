@@ -31,7 +31,7 @@
   <header style=" margin-top: 17px;height: 52px;" >
     
     <div class="navbar">
-    <a href="home.php"><img src="https://see.fontimg.com/api/renderfont4/lg2J5/eyJyIjoiZnMiLCJoIjo0OSwidyI6MTAwMCwiZnMiOjQ5LCJmZ2MiOiIjNTMwNjU5IiwiYmdjIjoiIzBEMEQwRCIsInQiOjF9/U1IgR2FtaW5n/war-elite-grunge-demo.png" alt="War fonts" style="    width: 127px;height: 19px;margin-top: 4px;"></a>
+    <a href="home.php"><img src="https://see.fontimg.com/api/renderfont4/1GMVL/eyJyIjoiZnMiLCJoIjo0MCwidyI6MTAwMCwiZnMiOjQwLCJmZ2MiOiIjQ0IxNEYwIiwiYmdjIjoiIzFFMUUxRSIsInQiOjF9/U1IgR0FNRSBTSE9Q/game-of-squids.png" alt="Squid fonts" style="    width: 127px;height: 19px;margin-top: 4px;"></a>
 
     <!-- <a href="home.php" class="logo">SR Gaming</a> -->
 
@@ -61,7 +61,7 @@
     </button>
     <div class="dropdown-content">
     <a href="Tournament.php">Matches</a>
-    <a href="Stream.php">Stream</a>
+<!--     <a href="Stream.php">Stream</a> -->
     </div>
     </div>
       

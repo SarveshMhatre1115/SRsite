@@ -43,7 +43,7 @@
     </button>
     <div class="dropdown-content">
     <a href="Tournament.php">Matches</a>
-    <a href="Stream.php">Stream</a>
+<!--     <a href="Stream.php">Stream</a> -->
     </div>
     </div>
 	</div>

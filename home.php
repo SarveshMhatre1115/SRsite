@@ -318,7 +318,7 @@ The markup will have a list with images and the titles-->
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="i.jpg" alt="Jane" style="width: 96%;height: 148px;">
+      <img src="i.jpg" alt="Jane" style="width: 96%;height: 148px;padding-left: 21px; padding-top: 7px;">
       <div class="container">
         <a href="https://www.epicgames.com/fortnite/en-US/home"style="color: #fff; font-size: 30px; text-shadow: 2px 2px #AA1111; font-family:  'Oxanium', cursive;";>The Witcher</a>
         <p class="title" style="color: #fff; font-size: 30px; text-shadow: 2px 2px #AA1111; font-family:  'Oxanium', cursive;";>By : Wild Hunt</p>
@@ -328,7 +328,7 @@ The markup will have a list with images and the titles-->
 
   <div class="column">
     <div class="card">
-      <img src="w.jpg" alt="Mike" style="width: 96%; height: 148px;" >
+      <img src="w.jpg" alt="Mike" style="width: 96%; height: 148px;padding-left: 21px; padding-top: 7px;" >
       <div class="container">
         <a href="https://www.epicgames.com/fortnite/en-US/home" style="color: #fff; font-size: 30px; text-shadow: 2px 2px #AA1111; font-family: 'Oxanium', cursive;"; >Fortnight</a>
         <p  class="title" style="color: #fff; font-size: 30px; text-shadow: 2px 2px #AA1111; font-family:  'Oxanium', cursive;";>BY : EPic Games</p>
@@ -340,7 +340,7 @@ The markup will have a list with images and the titles-->
 
   <div class="column">
     <div class="card">
-      <img src="q.jpg" alt="Mike" style="width: 96%; height: 148px;">
+      <img src="q.jpg" alt="Mike" style="width: 96%; height: 148px;padding-left: 21px; padding-top: 7px;">
       <div class="container">
         <a href="https://www.epicgames.com/fortnite/en-US/home" style="color: #fff; font-size: 30px; text-shadow: 2px 2px #AA1111; font-family:  'Oxanium', cursive;"; >GTA V</a>
         <p  class="title" style="color: #fff; font-size: 30px; text-shadow: 2px 2px #AA1111; font-family: 'Oxanium', cursive;">BY : EPic Games</p>

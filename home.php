@@ -107,7 +107,7 @@ include 'components/wishlist_cart.php';
 	<br>
 	
 	</div>
-<video src="hero_video_1574377417.mp4" id="video" style="background-color: white" controls=“true”  autoplay onplaying="this.controls=false"></video>
+<video src="hero_video_1574377417.mp4" id="video" style="height: 467px;" controls=“true”  autoplay onplaying="this.controls=false"></video>
 
 <section class="category" style="color: #bcbcb9; font-size: 30px; text-shadow: 2px 2px #AA1111; font-family: 'Oxanium', cursive;">
 

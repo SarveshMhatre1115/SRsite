@@ -277,7 +277,7 @@ section{
 .header .flex .profile{
    position: absolute;
    top:120%; right:2rem;
-   background-color: var(--white);
+   background-color:transparent;
    border-radius: .5rem;
    box-shadow: var(--box-shadow);
    border:var(--border);
@@ -294,7 +294,7 @@ section{
 
 .header .flex .profile p{
    text-align: center;
-   color:var(--black);
+   color:var(--white);
    font-size: 2rem;
    margin-bottom: 1rem;
 }

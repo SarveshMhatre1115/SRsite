@@ -14,7 +14,7 @@
 <header class="header" style="margin-top:17px;">
 
    <section class="flex"style="padding-top: 0px; padding-bottom: 6px;">
-   <a href="home.php"><img src="https://see.fontimg.com/api/renderfont4/lg2J5/eyJyIjoiZnMiLCJoIjo0OSwidyI6MTAwMCwiZnMiOjQ5LCJmZ2MiOiIjNTMwNjU5IiwiYmdjIjoiIzBEMEQwRCIsInQiOjF9/U1IgR2FtaW5n/war-elite-grunge-demo.png" alt="War fonts" style="    width: 127px;height: 19px;margin-top: 4px;"></a>
+   <a href="home.php"><img src="https://see.fontimg.com/api/renderfont4/1GMVL/eyJyIjoiZnMiLCJoIjo0MCwidyI6MTAwMCwiZnMiOjQwLCJmZ2MiOiIjQ0IxNEYwIiwiYmdjIjoiIzFFMUUxRSIsInQiOjF9/U1IgR0FNRSBTSE9Q/game-of-squids.png" alt="Squid fonts" style="    width: 127px;height: 19px;margin-top: 4px;"></a>
       <!-- <a href="home.php" class="logo">SR Gaming</a> -->
       <div class="navbar">
       <a class="active" href="home.php">Home</a>

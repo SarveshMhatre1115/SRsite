@@ -29,7 +29,7 @@
 		</video>
 	<header style=" margin-top: 17px; height: 52px;">
 		<div class="navbar">
-		<a href="home.php"><img src="https://see.fontimg.com/api/renderfont4/1GMVL/eyJyIjoiZnMiLCJoIjo0MCwidyI6MTAwMCwiZnMiOjQwLCJmZ2MiOiIjQ0IxNEYwIiwiYmdjIjoiIzFFMUUxRSIsInQiOjF9/U1IgR0FNRSBTSE9Q/game-of-squids.png" alt="Squid fonts" style="    width: 127px;height: 19px;margin-top: 4px;"></a>
+		<a href="home.php"><img src="https://see.fontimg.com/api/renderfont4/1GMVL/eyJyIjoiZnMiLCJoIjo0MCwidyI6MTAwMCwiZnMiOjQwLCJmZ2MiOiIjQ0IxNEYwIiwiYmdjIjoiIzFFMUUxRSIsInQiOjF9/U1IgR0FNRSBTSE9Q/game-of-squids.png" alt="Squid fonts" style="  width: 127px;height: 19px;margin-top: 4px;"></a>
 
 		<!-- <a href="home.php" class="logo" style="color: white;">SR Gaming</a> -->
 
